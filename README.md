@@ -1,6 +1,6 @@
 # Responsi 1 Pemrograman Mobile
 
-```json
+```
 Nama       :  Daiva Paundra Gevano
 NIM        :  H1D023075
 Shift Baru :  A
